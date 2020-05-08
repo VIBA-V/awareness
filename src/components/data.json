@@ -1,0 +1,127 @@
+[
+  {
+    "question": "In which year was corona virus detected?",
+    "options": ["2010", "2019", "2018", "2020"],
+    "answer": "2019",
+    "level": "01"
+  },
+  {
+    "question": "The name COVID-19 is coined by ?",
+    "options": ["U.N.O", "W.H.O", "I.L.O ", "I.M.F"],
+    "answer": "W.H.O",
+    "level": "02"
+  },
+  {
+    "question": "COVID-19 spread can be avoided by",
+    "options": ["Social Distancing", "Gatherings", "Both a & b", "None"],
+    "answer": "Social Distancing",
+    "level": "03"
+  },
+  {
+    "question": "COVID-19 stands for",
+    "options": [
+      "Corona Virus Disease Of 2019",
+      "Noval Corona Virus",
+      "Human Immuno Defficiency virus",
+      "Corona Virus Disease"
+    ],
+    "answer": "Corona Virus Disease Of 2019",
+    "level": "04"
+  },
+  {
+    "question": "Which Application is specially designed for COVID-19 crisis in India?",
+    "options": ["Aarogya Setu", "Medlife", "Mfine", "Ask Doctor"],
+    "answer": "Aarogya Setu",
+    "level": "05"
+  },
+  {
+    "question": "Corona virus is a kind of virus that causes an infection in ?",
+    "options": ["Nose", "Upper throat", "Lungs", "All the above"],
+    "answer": "All the above",
+    "level": "06",
+    "Title": "#  WORK FROM HOME"
+  },
+  {
+    "question": " India's first corona virus death occurred in which state?",
+    "options": ["Delhi", "Goa", "Uttar Pradesh", "Karnataka"],
+    "answer": "Karnataka",
+    "level": "07",
+    "Title": "#  WORK FROM HOME"
+  },
+  {
+    "question": "Which country’s Prime minister was affected first with novel corona virus?",
+    "options": ["Russia ", "UK", " Italy ", " South Africa"],
+    "answer": "UK",
+    "level": "08",
+    "Title": "#  WORK FROM HOME"
+  },
+  {
+    "question": "How many types of corona virus are there?",
+    "options": ["7", "10", "5", "4"],
+    "answer": "7",
+    "level": "09",
+    "Title": "#  WORK FROM HOME"
+  },
+  {
+    "question": "How long is the Incubation Period for Corona virus?",
+    "options": ["12-24 Hours ", "2-4 Hours ", "5-14 Days", "1 Month "],
+    "answer": "5-14 Days",
+    "level": "10",
+    "Title": "#  WORK FROM HOME"
+  },
+  {
+    "question": "What makes an ORANGE ZONE?",
+    "options": [
+      "No new cases.",
+      " No new cases in 21 days ",
+      "No cases found in 14 days",
+      "Having several hotspots"
+    ],
+    "answer": "No cases found in 14 days",
+    "level": "11",
+    "Title": "#  MUTUAL DISTANCE"
+  },
+  {
+    "question": "Who is collaborating with pharmaceutical company LAXAI Life Sciences to develop drug intermediaries?",
+    "options": [
+      "International Institute of Chemical Technology, IICT ",
+      "Indian Institute of Chemical Technology, IICT",
+      " Skanda Chemical Technologies ",
+      " None of the above "
+    ],
+    "answer": "Indian Institute of Chemical Technology, IICT",
+    "level": "12",
+    "Title": "#  MUTUAL DISTANCE"
+  },
+  {
+    "question": "Is Corona virus same as SARS?",
+    "options": ["Yes ", "No", "Mostly", "None of the above"],
+    "answer": "No",
+    "level": "13",
+    "Title": "#  MUTUAL DISTANCE"
+  },
+  {
+    "question": "What is the clinical treatment for transfusing the blood from a recovered COVID-19 patient to an infected person who is in critical condition?",
+    "options": [
+      "Solidarity ",
+      "Plasma Therapy",
+      " Hydroxychloroquine ",
+      " None of the above "
+    ],
+    "answer": "Plasma Therapy",
+    "level": "14",
+    "Title": "#  MUTUAL DISTANCE"
+  },
+  {
+    "question": "How does Corona virus transmit?",
+    "options": [
+      "If the distance is less than 1 meter from the infected person ",
+      "When a person sneezes or coughs without covering his mouth or nose ",
+      "If another person is nearby and inhales the droplets or touches the infected area",
+      "All the above are correct"
+    ],
+    "answer": "All the above are correct",
+    "level": "15",
+    "Title": "#  MUTUAL DISTANCE"
+  }
+]

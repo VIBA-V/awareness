@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.kaushik{
+    font-size: 15px;
+    text-align: center;
+}
+.kb{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18rem,1fr));
+    margin: 5px 0px;
+
+}
+.kb :hover >h2{
+    color: #F93822FF;
+}
+.cheya img{
+    max-width: 120px;
+    height: 120px;
+    position: relative;
+    top: 15%;
+    left: 33%;
+}
+.kittu{
+    font-size: 25px;
+    text-align: center;
+    color:#422057FF;
+}
+.chow{
+    color: grey;
+    width:90%;
+    font-size: 15px;
+    text-align: center;
+    padding: 0px 15px;
+    
+}
+@media (min-width:1080px){
+    .kb{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(15rem,1fr));
+        grid-column-gap: 180px;
+        margin: 80px;
+    }
+
+}
