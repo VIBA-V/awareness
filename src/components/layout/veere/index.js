@@ -10,9 +10,7 @@ const Veere = () => {
   return (
     <div className="veere" style={{ height: "100vh" }}>
       <div className="ayyo" data-aos="fade-down" data-aos-duration="2000">
-        <h1>
-          <b>PROTECT YOURSELF & OTHERS</b>
-        </h1>
+        <h1>PROTECT YOURSELF & OTHERS</h1>
         <h2>SO SPREAD AWARENESS</h2>
         <h2>NOT VIRUS</h2>
         <Button variant="contained" color="secondary" fontSize="large">

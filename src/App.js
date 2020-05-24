@@ -9,10 +9,10 @@ function App() {
     <Router>
       <div>
         <Switch>
-          <Route path="/Quizz">
+          <Route path="/awareness/Quizz">
             <Quizz />
           </Route>
-          <Route path="/">
+          <Route exact path="/awareness">
             <Home />
           </Route>
         </Switch>
