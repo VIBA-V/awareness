@@ -15,7 +15,7 @@ const Veere = () => {
         <h2>NOT VIRUS</h2>
         <Button variant="contained" color="secondary" fontSize="large">
           <Link
-            to="/Quizz"
+            to="/awareness/Quizz"
             style={{ textDecoration: "none", color: "#FFFFFF" }}
           >
             Quizz Time
