@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/awareness/static/css/main.e057f803.chunk.css",
+    "main.js": "/awareness/static/js/main.8235e06e.chunk.js",
+    "main.js.map": "/awareness/static/js/main.8235e06e.chunk.js.map",
+    "runtime-main.js": "/awareness/static/js/runtime-main.c423371a.js",
+    "runtime-main.js.map": "/awareness/static/js/runtime-main.c423371a.js.map",
+    "static/css/2.f702fde2.chunk.css": "/awareness/static/css/2.f702fde2.chunk.css",
+    "static/js/2.b01f1355.chunk.js": "/awareness/static/js/2.b01f1355.chunk.js",
+    "static/js/2.b01f1355.chunk.js.map": "/awareness/static/js/2.b01f1355.chunk.js.map",
+    "index.html": "/awareness/index.html",
+    "precache-manifest.4ecc007cf56e2c6d994add9087644235.js": "/awareness/precache-manifest.4ecc007cf56e2c6d994add9087644235.js",
+    "service-worker.js": "/awareness/service-worker.js",
+    "static/css/2.f702fde2.chunk.css.map": "/awareness/static/css/2.f702fde2.chunk.css.map",
+    "static/css/main.e057f803.chunk.css.map": "/awareness/static/css/main.e057f803.chunk.css.map",
+    "static/js/2.b01f1355.chunk.js.LICENSE.txt": "/awareness/static/js/2.b01f1355.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/awareness/static/media/1.e6b6afa9.png",
+    "static/media/3.png": "/awareness/static/media/3.931b72a4.png",
+    "static/media/4.png": "/awareness/static/media/4.d0ca634d.png",
+    "static/media/5.png": "/awareness/static/media/5.c6fe9acf.png",
+    "static/media/6.png": "/awareness/static/media/6.d62ac808.png",
+    "static/media/7.png": "/awareness/static/media/7.454e41fd.png",
+    "static/media/8.png": "/awareness/static/media/8.a7cdb04a.png",
+    "static/media/9.png": "/awareness/static/media/9.ac44dcb7.png",
+    "static/media/dist.png": "/awareness/static/media/dist.360c127b.png",
+    "static/media/doc.png": "/awareness/static/media/doc.1a99f1f2.png",
+    "static/media/style120.css": "/awareness/static/media/mmm.e6631c4c.jpg",
+    "static/media/preqs.jpg": "/awareness/static/media/preqs.5a4b547f.jpg",
+    "static/media/trophy.jpg": "/awareness/static/media/trophy.1f44d174.jpg",
+    "static/media/work.png": "/awareness/static/media/work.63b9077f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c423371a.js",
+    "static/css/2.f702fde2.chunk.css",
+    "static/js/2.b01f1355.chunk.js",
+    "static/css/main.e057f803.chunk.css",
+    "static/js/main.8235e06e.chunk.js"
+  ]
+}
